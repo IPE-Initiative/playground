@@ -15,4 +15,4 @@ And here comes a list:
 * second item
 * and a third item
 
-And here is a [link to the ipe](https://twitter.com/intpubenv?lang=de).
+And here is a [link to the ipe](http://www.integrating-publishing.org/).
