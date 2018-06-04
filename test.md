@@ -9,5 +9,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 And this is the second section
 ------------------------------
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+And here comes a list:
 
+* first item
+* second item
+* and a third item
+
+And here is a [link to the ipe](https://twitter.com/intpubenv?lang=de).
